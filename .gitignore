@@ -1,0 +1,10 @@
+venv/
+__pycache__/
+*.pyc
+.env
+rag-swiggy-app/data/faiss_index/
+rag-swiggy-app/data/*.pdf
+*.pdf
+.DS_Store
+rag-swiggy-app/frontend/.next/
+rag-swiggy-app/frontend/node_modules/
